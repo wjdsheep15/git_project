@@ -18,3 +18,10 @@ test1 remote
 remote HEAD remote HEAD가 HEAD로 잡힘
 local HEAD는 해시코드로 잡힘
 rebase 1 edit
+rebase 2 reword
+merge test 해보자
+우리 다합께 놀아요
+rebase test 해보자
+testtest
+checkout
+conflict conflick
