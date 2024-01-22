@@ -20,8 +20,3 @@ local HEAD는 해시코드로 잡힘
 rebase 1 edit
 rebase 2 reword
 rebase 3 edit
-merge test 해보자
-우리 다합께 놀아요
-rebase test 해보자
-testtest
-aaaaaaa
